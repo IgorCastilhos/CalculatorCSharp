@@ -1,0 +1,14 @@
+C:\Developer\ProjectsInCSharp\Calculator\Program\bin\Debug\net8.0\Program.exe
+C:\Developer\ProjectsInCSharp\Calculator\Program\bin\Debug\net8.0\Program.deps.json
+C:\Developer\ProjectsInCSharp\Calculator\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Developer\ProjectsInCSharp\Calculator\Program\bin\Debug\net8.0\Program.dll
+C:\Developer\ProjectsInCSharp\Calculator\Program\bin\Debug\net8.0\Program.pdb
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.dll
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.pdb
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\ref\Program.dll
