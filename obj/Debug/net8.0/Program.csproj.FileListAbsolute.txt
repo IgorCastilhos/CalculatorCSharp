@@ -12,3 +12,4 @@ C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\refint\Program
 C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.pdb
 C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Developer\ProjectsInCSharp\Calculator\Program\obj\Debug\net8.0\Program.sourcelink.json
